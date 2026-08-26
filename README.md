@@ -15,7 +15,5 @@ Frontend: Sends queries to the backend and displays the results
 Tech stack:
 
 Java (core logic, data structures, API)
-
 Jetty (REST API server)
-
 JavaScript (frontend)
